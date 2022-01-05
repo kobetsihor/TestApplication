@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ff62c0b-6e51-4eb5-8fe6-b930ed106aba": {
+      "ProjectGuid": "5ff62c0b-6e51-4eb5-8fe6-b930ed106aba",
+      "DisplayName": "TransactionApplication.Api",
+      "ColorIndex": 0
+    },
+    "e537b6f6-8846-4fba-8141-b10e1da35ac3": {
+      "ProjectGuid": "e537b6f6-8846-4fba-8141-b10e1da35ac3",
+      "DisplayName": "TransactionApplication.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
